@@ -50,6 +50,9 @@ You can more view on sites [Click Me!](https://sites.google.com/view/iplay)
 ## Logo
 [<img alt="iPlay Music" title="iPlay Music" width="30%" src="assets/logo/ic_launcher_iplay.png" />](https://cusmedroid.github.io/iplaymusic) [<img alt="iPlay Music Rounded" title="iPlay Music Rounded" width="30%" src="assets/logo/ic_launcher_iplay_rounded.png" />](https://cusmedroid.github.io/iplaymusic)
 
+# Remove Account
+[Click Me!](remove_account.html)
+
 # Realese 9.0
 Changelog :
 - You can play music on streaming (Required login)
