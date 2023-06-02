@@ -31,11 +31,17 @@ You can more view on sites [Click Me!](https://sites.google.com/view/iplay)
 # Build Android
 ```
  __ iPlay Music
-| 
+| |__ Title or name Project
+|
+|
 |____ Android Studio
+| |_____ UI/UX interface
+| |________ Logic System
 |
 |
 |______ Firebase
+| |______ Auth Login/Register
+| |_________ Storage/database
 |
 |
 |________ Realese
